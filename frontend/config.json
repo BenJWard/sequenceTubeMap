@@ -1,0 +1,13 @@
+{
+  "BACKEND_URL": "https://api.wbeyer.com",
+  "DATA_SOURCES": [
+    {
+      "name": "chr22_v4",
+      "xgFile": "chr22_v4.vg.xg",
+      "gamIndex": "NA12878_mapped_v4.gam.index",
+      "anchorTrackName": "22",
+      "useMountedPath": false,
+      "defaultPosition": "17697661"
+    }
+  ]
+}

@@ -5,5 +5,4 @@ test/bower_components
 .DS_store
 .publish
 dist
-frontend/config.json
 *.swp
